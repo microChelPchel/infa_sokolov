@@ -1,2 +1,4 @@
 # infa_sokolov
-work performed as part of the assignment for software engineering
+__Gaming__
+
+this work will be presented in software engineering, during which a group of two students will develop a game
