@@ -1,4 +1,4 @@
 # infa_sokolov
 __Gaming__
 
-this work will be presented in software engineering, during which a group of two university students will develop a game
+This work will be presented in software engineering, during which a group of two university students will develop a game. The project is under development.
